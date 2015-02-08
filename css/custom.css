@@ -1,0 +1,12 @@
+.navbar-default .navbar-brand {
+  font-family: 'Dancing Script', cursive;
+  color: #fff;
+}
+
+.navbar-shrink {
+  color: #000;
+}
+
+#portfolio {
+  background-color: #e0e0e0;
+}
