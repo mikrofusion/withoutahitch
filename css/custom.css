@@ -10,3 +10,21 @@
 #portfolio {
   background-color: #e0e0e0;
 }
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+    height: 300px;
+}
+
+.item {
+  padding: 0px;
+};
+
+.slide-img {
+  min-height: 500px;
+};
+.carousel .item {
+  line-height: 500px;
+  overflow: hidden;
+  min-height: 500px;
+}
