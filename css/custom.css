@@ -12,3 +12,6 @@
   background-color: #000;
 }
 
+.owl-stage-outer {
+  height: 400px;
+}
